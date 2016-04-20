@@ -1,2 +1,2 @@
 # onsenui-master-detail
-Master-Detail template for OnsenUI Framework
+Master-Detail template for [OnsenUI Framework](http://onsen.io)
